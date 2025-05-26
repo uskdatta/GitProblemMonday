@@ -24,6 +24,8 @@ public class ReadFile
                 }
                 // System.out.println("Number of vowels in the text file is: "+count);
             }
+            
+            Writer.write("Number of voewels in the text file is: "+count);
             System.out.println("Number of vowels in the text file is: "+count);
             Writer.close();
             Reader.close();

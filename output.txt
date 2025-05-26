@@ -1,0 +1,1 @@
+Number of voewels in the text file is: 3
